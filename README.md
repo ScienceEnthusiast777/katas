@@ -1,3 +1,3 @@
 # Katas
 
-here is a record of my Kata solutions from codewars. 
+This an old repo of Katas that have been since moved to a new one to allow me to practice simple tests. 
